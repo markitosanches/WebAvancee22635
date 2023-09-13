@@ -9,10 +9,6 @@ Class Person{
     public $email;
 }
 
-$peter = new Person;
-$peter->name = 'Peter';
-
-var_dump($peter);
 
 
 
